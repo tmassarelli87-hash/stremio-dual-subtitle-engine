@@ -1,0 +1,11 @@
+1
+00:00:01,000 --> 00:00:03,000
+Ciao! Questo è un sottotitolo di prova per Stremio.
+
+2
+00:00:04,000 --> 00:00:07,000
+Funziona con un addon minimale senza database né cache.
+
+3
+00:00:08,000 --> 00:00:11,000
+Questo esempio mostra che Stremio riesce a caricare il file SRT.
